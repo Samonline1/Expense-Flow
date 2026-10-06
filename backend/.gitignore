@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+env/
+.env
+DEPLOYMENT_STEPS.md
+*.db
+*.sqlite3
